@@ -21,6 +21,7 @@ This repository is a awesome collection about Biohacking.
 - [Biohacking: revolução ou ameaça à humanidade?](http://www.tecmundo.com.br/biologia/37472-biohacking-revolucao-ou-ameaca-a-humanidade-.htm)
 - [Você sabe o que é Biohacking? Um dos segredos de um High Stakes.](http://www.gabrielgoffi.com/voce-sabe-o-que-e-biohacking/)
 - [Hackeando o próprio corpo: biohackers inserem placas, ímãs e outros dispositivos em si mesmos.](https://tecnoblog.net/144922/biohackers-placas-dispositivos-e-imas-em-si-mesmos/)
+- [The Evolution Of Biohacking: Would You Become A Cyborg?](https://www.instantcheckmate.com/crimewire/2014/07/22/the-evolution-of-biohacking-would-you-become-a-cyborg/)
 
 ### Forums:
 - [BioHack.me](http://forum.biohack.me/)
