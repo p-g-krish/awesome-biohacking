@@ -41,7 +41,7 @@ This repository is a awesome collection about Biohacking.
 
 ##### License
 
-- This work is licensed under [**MIT License**](https://github.com/HeitorG/awesome-biohacking/blob/master/LICENSE.md)
+- This work is licensed under [**MIT License**](https://github.com/GouveaHeitor/awesome-biohacking/blob/master/LICENSE.md)
 
 ##### Contribution
 
