@@ -26,6 +26,8 @@ This repository is a awesome collection about Biohacking.
 - [Hackeando o próprio corpo: biohackers inserem placas, ímãs e outros dispositivos em si mesmos.](https://tecnoblog.net/144922/biohackers-placas-dispositivos-e-imas-em-si-mesmos/)
 - [The Evolution Of Biohacking: Would You Become A Cyborg?](https://www.instantcheckmate.com/crimewire/2014/07/22/the-evolution-of-biohacking-would-you-become-a-cyborg/)
 - [Biohacking - Technology and the Human Body](http://reporter.rit.edu/tech/biohacking-technology-and-human-body)
+- [Biohacking: Estudantes da UFRJ representam o Brasil](http://revistaneuroeducacao.com.br/estudantes-da-ufrj-representam-o-brasil-em-evento-sobre-biohacking-na-holanda/)
+
 
 ### Forums:
 - [BioHack.me](http://forum.biohack.me/)
