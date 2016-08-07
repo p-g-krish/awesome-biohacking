@@ -27,6 +27,7 @@ This repository is a awesome collection about Biohacking.
 - [The Evolution Of Biohacking: Would You Become A Cyborg?](https://www.instantcheckmate.com/crimewire/2014/07/22/the-evolution-of-biohacking-would-you-become-a-cyborg/)
 - [Biohacking - Technology and the Human Body](http://reporter.rit.edu/tech/biohacking-technology-and-human-body)
 - [Biohacking: Estudantes da UFRJ representam o Brasil](http://revistaneuroeducacao.com.br/estudantes-da-ufrj-representam-o-brasil-em-evento-sobre-biohacking-na-holanda/)
+- [O que é Biohacking e como se tornar um ciborgue por menos de 100 U$](https://www.oficinadanet.com.br/post/13557-o-que-e-biohacking)
 
 
 ### Forums:
