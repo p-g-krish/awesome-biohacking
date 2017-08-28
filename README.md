@@ -41,7 +41,7 @@ This repository is a awesome collection about Biohacking.
 
 ##### Bugs
 
-- Report bugs in my email: **hgouvea@protonmail.com**
+- Report bugs in my email: **hi@heitorgouvea.me**
 
 ##### License
 
