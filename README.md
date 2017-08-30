@@ -37,6 +37,7 @@ This repository is a awesome collection about Biohacking.
 - [Lodon biohackspace](https://biohackspace.org/)
 - [Biohack Academy](https://github.com/biohackacademy)
 - [Biohacking Brasil](http://www.biohackingbrasil.com.br/)
+- [The Odin](http://www.the-odin.com/)
 
 ##### Bugs
 
