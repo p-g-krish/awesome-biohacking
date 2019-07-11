@@ -34,6 +34,7 @@ This repository is a awesome collection about Biohacking.
 - [BioHack.me](http://forum.biohack.me/)
 
 ### Projects:
+- [Memento Labs](https://mementolabs.io/)
 - [Lodon biohackspace](https://biohackspace.org/)
 - [Biohack Academy](https://github.com/biohackacademy)
 - [Biohacking Brasil](http://www.biohackingbrasil.com.br/)
