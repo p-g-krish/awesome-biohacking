@@ -51,7 +51,3 @@ This repository is a awesome collection about Biohacking.
 ##### Contribution
 
 - Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕)[**See here the contribution guidelines**](/.github/CONTRIBUTING.md)
-
-##### Disclaimer
-
-I do private jobs, if you are interested send me an e-mail at: **hi@heitorgouvea.me**
