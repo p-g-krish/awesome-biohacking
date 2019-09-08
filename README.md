@@ -42,7 +42,7 @@ This repository is a awesome collection about Biohacking.
 
 ##### Bugs
 
-- Report bugs in my email: **hi@heitorgouvea.me**
+- Report bugs via [**issues page.**](https://github.com/GouveaHeitor/awesome-biohacking/issues)
 
 ##### License
 
